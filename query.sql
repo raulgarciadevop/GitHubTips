@@ -1,1 +1,1 @@
-SELECT * FROM clients;
+SELECT id_client FROM clients;
