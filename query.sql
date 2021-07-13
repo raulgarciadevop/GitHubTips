@@ -5,6 +5,9 @@ SELECT * FROM clients;
 
 
 
+select * from llamadas 
+where call_status = 'inbound';
+
 
 
 
